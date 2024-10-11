@@ -1,0 +1,4 @@
+com\hoshino\ruby\bookmarker_api\TestcontainersConfiguration.class
+com\hoshino\ruby\bookmarker_api\api\BookmarkControllerTest.class
+com\hoshino\ruby\bookmarker_api\BookmarkerApiApplicationTests.class
+com\hoshino\ruby\bookmarker_api\TestBookmarkerApiApplication.class

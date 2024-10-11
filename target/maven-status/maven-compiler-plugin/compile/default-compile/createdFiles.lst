@@ -1,0 +1,6 @@
+com\hoshino\ruby\bookmarker_api\api\BookmarkController.class
+com\hoshino\ruby\bookmarker_api\domain\BookmarksDTO.class
+com\hoshino\ruby\bookmarker_api\domain\BookmarkService.class
+com\hoshino\ruby\bookmarker_api\BookmarkerApiApplication.class
+com\hoshino\ruby\bookmarker_api\domain\BookmarkRepository.class
+com\hoshino\ruby\bookmarker_api\domain\Bookmark.class
